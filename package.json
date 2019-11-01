@@ -1,6 +1,6 @@
 {
   "name": "translator",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A translation field for Craft CMS FORKED",
   "scripts": {
     "dev": "webpack --mode development",
