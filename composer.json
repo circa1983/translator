@@ -2,7 +2,7 @@
     "name": "circa1983/translator",
     "description": "A translation field for Craft CMS ",
     "type": "craft-plugin",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "keywords": [
         "craft",
         "cms",
@@ -19,6 +19,10 @@
         {
             "name": "Jan D'Hollander",
             "homepage": "https://www.thebasement.be/"
+        },
+        {
+            "name": "Sam Walker",
+            "homepage": "https://www.meandhimdesign.co.uk/"
         }
     ],
     "require": {
