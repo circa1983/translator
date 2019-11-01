@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2019 Jan D'Hollander
  */
 
-namespace jandh\translator\assetbundles\translatorfield;
+namespace circa1983\translator\assetbundles\translatorfield;
 
 use Craft;
 use craft\web\AssetBundle;
@@ -29,7 +29,7 @@ class TranslatorAsset extends AssetBundle
      */
     public function init()
     {
-        $this->sourcePath = "@jandh/translator/assetbundles/translatorfield/dist";
+        $this->sourcePath = "@circa1983/translator/assetbundles/translatorfield/dist";
 
         $this->depends = [
             CpAsset::class,

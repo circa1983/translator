@@ -8,9 +8,9 @@
  * @copyright Copyright (c) 2019 Jan D'Hollander
  */
 
-namespace jandh\translator;
+namespace circa1983\translator;
 
-use jandh\translator\fields\TranslatorField;
+use circa1983\translator\fields\TranslatorField;
 
 use Craft;
 use craft\base\Plugin;
