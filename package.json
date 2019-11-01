@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jan-dh@github.com/jan-dh/translator.git"
+    "url": "git+https://circa1983@github.com/circa1983/translator.git"
   },
   "author": "Jan D'Hollander",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jan-dh/translator/issues"
+    "url": "https://github.com/circa1983/translator/issues"
   },
-  "homepage": "https://github.com/jan-dh/translator#readme",
+  "homepage": "https://github.com/circa1983/translator#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",

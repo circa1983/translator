@@ -8,10 +8,10 @@
  * @copyright Copyright (c) 2019 Jan D'Hollander
  */
 
-namespace jandh\translator\fields;
+namespace circa1983\translator\fields;
 
-use jandh\translator\Translator;
-use jandh\translator\assetbundles\translatorfield\TranslatorAsset;
+use circa1983\translator\Translator;
+use circa1983\translator\assetbundles\translatorfield\TranslatorAsset;
 
 use Craft;
 use craft\base\ElementInterface;

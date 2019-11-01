@@ -1,5 +1,5 @@
 {
-    "name": "jandh/translator",
+    "name": "circa1983/translator",
     "description": "A translation field for Craft CMS ",
     "type": "craft-plugin",
     "version": "1.0.2",
@@ -11,8 +11,8 @@
         "translator"
     ],
     "support": {
-        "docs": "https://github.com/jan-dh/translator#readme",
-        "issues": "https://github.com/jan-dh/translator/issues"
+        "docs": "https://github.com/circa1983/translator#readme",
+        "issues": "https://github.com/circa1983/translator/issues"
     },
     "license": "MIT",
     "authors": [
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jandh\\translator\\": "src/"
+            "circa1983\\translator\\": "src/"
         }
     },
     "extra": {
@@ -35,6 +35,6 @@
         "hasCpSettings": false,
         "hasCpSection": false,
         "changelogUrl": "???",
-        "class": "jandh\\translator\\Translator"
+        "class": "circa1983\\translator\\Translator"
     }
 }
